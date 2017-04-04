@@ -1,0 +1,20 @@
+{
+    "name": "aea/blade-service-provider",
+    "description": "Use blade template engine with silex",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgen Alex",
+            "email": "jh9aea@gmail.com"
+        }
+    ],
+    "require": {
+        "philo/laravel-blade": "3.*",
+        "silex/silex": "^2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aea\\": "src/Aea"
+        }
+    }
+}
