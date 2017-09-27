@@ -16,7 +16,7 @@ Once installed use your domain to view any size image you are after e.g. domain.
 ```
 MIT License
 
-Copyright (c) 2017 ashleybakernz
+Copyright (c) 2017 ashbakernz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -39,8 +39,7 @@ SOFTWARE.
 
 #### Author
 
-| [Ashley Baker](https://avatars0.githubusercontent.com/u/13672085?v=3&s=460) |
+| [Ash Baker](https://avatars0.githubusercontent.com/u/13672085?v=3&s=460) |
 | ------ |
-| ![Ashley Baker](https://avatars0.githubusercontent.com/u/13672085?v=3&s=460) |
-| [Twitter](https://twitter.com/ashleybakernz) |
-| [Facebook](https://facebook.com/ashleybakernz) |
+| ![Ash Baker](https://avatars0.githubusercontent.com/u/13672085?v=3&s=460) |
+| [Twitter](https://twitter.com/ashbakernz) |
