@@ -29,8 +29,8 @@ $app->register(new Silex\Provider\DoctrineServiceProvider, [
       'driver' => 'pdo_mysql',
       'host' => 'localhost',
       'dbname' => 'placecoffee',
-      'user' => 'root',
-      'password' => '',
+      'user' => 'placecoffee',
+      'password' => 'placecoffee',
       'charset' => 'utf8mb4',
     ]
 ]);
